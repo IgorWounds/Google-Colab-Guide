@@ -1,5 +1,5 @@
 # Google-Colab-Guide
-This is a beginner Guide to Google Colab that is featured on the Algotrading101 blog
+This is a Guide to Google Colab for beginners that is featured on the Algotrading101 blog
 
 It showcases:
 
