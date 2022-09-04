@@ -1,7 +1,8 @@
 # Google-Colab-Guide
-This is a Guide to Google Colab for beginners that is featured on the Algotrading101 blog
+This is a [Guide to Google Colab](https://algotrading101.com/learn/google-colab-guide/) for beginners that is featured on the Algotrading101 blog
 
-It showcases:
+
+## Table of contents
 
 * What is Google Colab?
 * Is Google Colab free?
@@ -27,8 +28,8 @@ It showcases:
 * What are the 3 Common Machine Learning Analysis/Testing Mistakes?
 
 -----------
-Info
------------
+## Info
+
 
 | Author | Igor Radovanovic
 --- | ---
